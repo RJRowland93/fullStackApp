@@ -1,0 +1,15 @@
+Notes:
+
+http - allows get and post of info
+css
+materialize
+node.js - serverside JS runtime env built on google v8, non-blocking I/O model
+express.js for routing
+MySQL for DB
+bodyparser - nodejs bodyparsing middleware; parses post requests
+path - helps work with file directory paths
+
+fullstack - both front end for view and backend 
+MVC: model - db; view - what user sees; controller - server
+
+Redux (React)
